@@ -1,0 +1,67 @@
+.img-avatar {
+    width: 8rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+.icons {
+
+    margin-left: 1.6rem;
+    margin-bottom: 3rem;
+}
+
+.icons a {
+    text-decoration: none;
+    color: #fff;
+    margin-right: 1.5rem;
+}
+
+h1 {
+
+    font-family: 'Moon-Flower';
+    letter-spacing: 2px;
+    margin: 0 1rem;
+    font-size: 40px;
+    font-weight: 900;
+
+
+    color: #ffffff;
+
+    margin-bottom: 3rem;
+}
+
+.accordion {
+    margin-top: 2rem;
+}
+
+.accordion-item {
+    width: 90%;
+
+    margin-top: 1rem;
+    background-color: #fff;
+    color: #831fd4;
+
+
+}
+
+.accordion-button {
+    background-color: #fff;
+    font-family: 'Moon-Flower';
+    letter-spacing: 1.2px;
+    font-size: 18px;
+    font-weight: 900;
+
+
+}
+
+.accordion-button:focus,
+.accordion-button:active {
+    background-color: #fff;
+    border: none;
+
+}
+
+.location {
+    margin-top: 2rem;
+}

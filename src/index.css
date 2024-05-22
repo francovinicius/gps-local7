@@ -1,0 +1,21 @@
+
+  @font-face {
+    font-family: 'Moon-Flower';
+    src: url('../src/fonts/Moon\ Flower.otf') format('opentype'), url('./fonts/Moon\ Flower.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #000;
+}
+
+code {
+  font-family: 'Moon-Flower';
+}
