@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
 
-      <img className='img-avatar' src="./assets/img/gps.png" alt="" />
+      <img className='img-avatar' src="./assets/img/L7.png" alt="" />
 
       {/*
       <div className='icons'>
