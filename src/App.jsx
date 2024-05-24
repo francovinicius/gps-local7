@@ -30,7 +30,33 @@ function App() {
 
       </div>
 */}
-      <h1>Encontre o GPS mais próximo a você!</h1>
+      <h1>Seja bem vindo ao localizador de GPS Local7 Church</h1>
+      <p className='text text-center'>Abaixo você encontrará o mapa de Volta Redonda e Região, nele conseguirá localizar o GPS mais próximo a você através dois ícones. <br /><br />
+        Cada Ícone representa um GPS onde cada cor representa uma categoria.</p>
+
+
+      <div className='d-flex justify-content-center align-items-center gap-3'>
+
+        <div className='d-flex justify-content-start align-items-start gap-3'>
+          <img src="./assets/img/icon/blue.png" alt="" className="img-icon" />
+
+        </div>
+        <div className='d-flex justify-content-start align-items-start gap-3'>
+          <img src="./assets/img/icon/pink.png" alt="" className="img-icon" />
+
+        </div>
+        <div className='d-flex justify-content-start align-items-start gap-3'>
+          <img src="./assets/img/icon/green.png" alt="" className="img-icon" />
+
+        </div>
+      </div>
+
+
+      <div className='d-span d-flex flex-column align-items-start'>
+        <li>Para Azul, GPS destinado a Homens.</li>
+        <li>Para Rosa, GPS destinado a Mulheres.</li>
+        <li>Para Verde, GPS destinado a Ambos.</li>
+      </div>
 
       <iframe src="https://www.google.com/maps/d/embed?mid=1nb7p7qKbJuM2LJW-smc4A0RLs6LcpDw&ehbc=2E312F&noprof=1" width="350" height="480"></iframe>
 
@@ -69,6 +95,7 @@ function App() {
 
       </div>
       */}
+
 
 
 

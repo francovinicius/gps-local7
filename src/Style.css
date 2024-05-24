@@ -22,13 +22,22 @@ h1 {
     font-family: 'Moon-Flower';
     letter-spacing: 2px;
     margin: 0 1rem;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 900;
 
 
     color: #ffffff;
 
-    margin-bottom: 3rem;
+    margin-bottom: 1rem;
+}
+
+.text {
+width: 350px;
+}
+
+.d-span {
+margin-left: 1rem;
+margin-bottom: 2rem;
 }
 
 .accordion {
@@ -65,3 +74,17 @@ h1 {
 .location {
     margin-top: 2rem;
 }
+
+.legenda-div {
+    color: aliceblue;
+    margin-top: 1rem;
+    }
+    
+    .legenda-div h4 {
+    margin-bottom: 2rem;
+    }
+    
+    .img-icon {
+    width: 2rem;
+    margin-bottom: 1rem;
+    }
