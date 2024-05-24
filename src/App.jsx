@@ -31,8 +31,12 @@ function App() {
       </div>
 */}
       <h1>Seja bem vindo ao localizador de GPS Local7 Church</h1>
-      <p className='text text-center'>Abaixo você encontrará o mapa de Volta Redonda e Região, nele conseguirá localizar o GPS mais próximo a você através dois ícones. <br /><br />
-        Cada Ícone representa um GPS onde cada cor representa uma categoria.</p>
+
+      <div className='d-flex justify-content-center'>
+        <p className='text text-center'>Abaixo você encontrará o mapa de Volta Redonda e Região, onde será possível localizar o GPS mais próximo de você através dos ícones.<br /><br />
+          Cada ícone representa um GPS, e cada cor indica uma categoria:</p>
+      </div>
+
 
 
       <div className='d-flex justify-content-center align-items-center gap-3'>
